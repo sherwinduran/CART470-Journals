@@ -7,6 +7,7 @@ CART 470 weekly journals
 
 
 
+
 Living Learning Contract
 
 [living learning contract](https://github.com/sherwinduran/CART470-Journals/blob/main/LivingLearningContract-teamF.pdf)
