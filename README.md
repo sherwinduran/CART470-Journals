@@ -7,6 +7,8 @@ CART 470 weekly journals
 
 [week 4](https://github.com/sherwinduran/CART470-Journals/blob/main/week-4)
 
+[week 5](https://github.com/sherwinduran/CART470-Journals/blob/main/week-5)
+
 
 
 
