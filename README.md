@@ -15,6 +15,8 @@ CART 470 weekly journals
 
 [week 8](https://github.com/sherwinduran/CART470-Journals/blob/main/week-8)
 
+[week 9](https://github.com/sherwinduran/CART470-Journals/blob/main/week-9)
+
 Living Learning Contract
 
 [living learning contract](https://github.com/sherwinduran/CART470-Journals/blob/main/LivingLearningContract-teamF.pdf)
